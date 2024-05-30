@@ -12,14 +12,14 @@
     "@react-email/button": "0.0.15",
     "@react-email/column": "0.0.10",
     "@react-email/container": "0.0.12",
-    "@react-email/head": "0.0.8",
+    "@react-email/head": "0.0.9",
     "@react-email/heading": "0.0.12",
     "@react-email/hr": "0.0.8",
     "@react-email/html": "0.0.8",
     "@react-email/img": "0.0.8",
     "@react-email/link": "0.0.8",
     "@react-email/preview": "0.0.9",
-    "@react-email/render": "0.0.13",
+    "@react-email/render": "0.0.15",
     "@react-email/section": "0.0.12",
     "@react-email/text": "0.0.8",
     "dayjs": "1.11.11",
@@ -30,13 +30,13 @@
     "rss-parser": "3.13.0"
   },
   "devDependencies": {
-    "@types/react": "18.3.2",
+    "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
-    "@vitejs/plugin-react": "4.2.1",
+    "@vitejs/plugin-react": "4.3.0",
     "express": "4.19.2",
     "prettier": "3.2.5",
-    "rimraf": "5.0.6",
+    "rimraf": "5.0.7",
     "typescript": "5.4.5",
-    "vite": "5.2.11"
+    "vite": "5.2.12"
   }
 }
